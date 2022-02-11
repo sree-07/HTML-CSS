@@ -1,0 +1,85 @@
+fieldset{
+    height: 510px;
+    width: 80%;
+}
+div{
+    position: absolute;
+    top: 200px;
+    left: 250px;
+    
+}
+.f{
+    color: rgb(58, 58, 238);
+    font-size: 50px;font-family: sans-serif;
+    position: absolute;
+    margin-top:-188px;
+    z-index: 1;
+
+}
+.top{
+position: absolute;
+background-color: rgb(60, 219, 206);
+width: 80%;
+margin-left: -114px;
+margin-top: -184px;
+height: 50px;
+}
+input{
+    margin: 5px;
+    margin-top: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.one{
+    margin-left: 600px;
+    
+}
+.side{
+    position: absolute;
+    width: 400px;
+    height: 460px;
+    background-color: cadetblue;
+    margin-left: 579px;
+    margin-top: -130px;
+}
+.sign{
+    position: relative;
+    margin-left: -220px;
+    color: rgb(19, 2, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.pass{
+    position: relative;
+    margin-left: -110px;
+    width: 200px;
+}
+.name{
+    width: 150px;
+    position: relative;
+    
+}
+button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.re{
+    position: relative;
+    width: 150px;
+    margin-top: 50px;
+    background-color: wheat;
+    color: black;
+}
+.up{
+    background-color: rgb(105, 133, 77);
+    color:gold;
+}
+#main{
+    background-color: rgba(228, 244, 245, 0.979);
+   
+}
+.left{
+    width: 550px;
+    height: 400px;
+    background-color: blueviolet;
+    position: absolute;
+    margin-top: -110;
+}
